@@ -5,47 +5,43 @@
   },
   "userdetails": {
     "userimage": "images/sq.png",
-    "username": "iamkunal9",
+    "username": "AryanAkarniya",
     "userbio": "A coder, Techie, Eth Hacker!!!"
   },
   "links": {
     "Instagram": {
-      "href": "https://instagram.com/iamkunal9here",
+      "href": "https://instagram.com/aryan__akarniya?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D",
       "src": "images/icons/instagram.gif"
     },
     "Github": {
-      "href": "https://github.com/iamkunal9",
+      "href": "https://github.com/AryanAkarniya",
       "src": "images/icons/github.gif"
     },
     "Linkedin": {
-      "href": "https://linkedin.com/in/iamkunal9",
+      "href": "http://www.linkedin.com/in/akarniya-aryan-7867a3250",
       "src": "images/icons/linkedin.gif"
     },
     "Twitter": {
-      "href": "https://twitter.com/iamkunal9_",
+      "href": "https://twitter.com/AkarniyaAryan?s=09",
       "src": "images/icons/twitter.gif"
     },
     "SnapChat": {
-      "href": "https://www.snapchat.com/add/kunalsharma0553?share_id=m-2FitLng4E&locale=en-US",
+      "href": "https://www.snapchat.com/add/aryanakarniya?share_id=aA4vu4bHifM&locale=en-IN",
       "src": "images/icons/snap.gif"
     },
     "YouTube":{
-      "href": "https://www.youtube.com/@iamkunal9",
+      "href": "https://www.youtube.com/@SNTARYAN",
       "src": "images/icons/youtube.gif"
     },
     "Buy Me A Coffee": {
-      "href": "https://www.buymeacoffee.com/iamkunal9",
+      "href": "https://www.buymeacoffee.com/aryanakarnX",
       "src": "images/icons/coff.gif"
     },
     "Contact Me": {
-      "href": "mailto:kunalsharma0553@gmail.com",
+      "href": "mailto:aryanakarniya7@gmail.com",
       "src": "images/icons/mail.gif"
     }
   },
   "projects":{
-    "Links":"https://github.com/iamkunal9/links",
-    "TruecallerBOT":"https://appopener.com/web/3d6qh47rb",
-    "Url Shortner":"https://skip.ga",
-    "Aarohan Web":"https://aarohan.poornima.org"
   }
 }
