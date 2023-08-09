@@ -29,7 +29,7 @@ Just pull this repo do changes in [info.json] and just host using github pages o
   },
   "userdetails": {
     "userimage": "/images/sq.png",
-    "username": "iamkunal9",
+    "username": "AryanAkarniya",
     "userbio": "A coder, Techie, Eth Hacker!!!"
   },
 ```
