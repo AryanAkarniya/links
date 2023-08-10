@@ -1,7 +1,7 @@
 # [Links]
 ## All the links at a single and beautiful place!
 
-[![Links](https://media.discordapp.net/attachments/994237473460854804/1035868128493707354/unknown.png)](https://iamkunal9.github.io/links)
+[![Links](https://media.discordapp.net/attachments/994237473460854804/1035868128493707354/unknown.png)](https://aryanakarniya.github.io/links)
 
 Links is a easy and a single place to keep all your `links`!
 
