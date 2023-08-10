@@ -1,4 +1,4 @@
-# [Links]
+# [https://aryanakarniya.github.io/links/]
 ## All the links at a single and beautiful place!
 
 [![Links](https://media.discordapp.net/attachments/994237473460854804/1035868128493707354/unknown.png)](https://aryanakarniya.github.io/links)
@@ -29,12 +29,12 @@ Just pull this repo do changes in [info.json] and just host using github pages o
   },
   "userdetails": {
     "userimage": "images./sq.png",
-    "username": "AryanAkarniya",
+    "username": "aryanakarniya",
     "userbio": "A coder, Techie, Eth Hacker!!!"
   },
 ```
 
-or just watch [this] youtube tutorial to finish up your own links!!!
+
 
 
 
