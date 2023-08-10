@@ -1,4 +1,4 @@
-# [https://aryanakarniya.github.io/links/]
+# [links]
 ## All the links at a single and beautiful place!
 
 [![Links](https://media.discordapp.net/attachments/994237473460854804/1035868128493707354/unknown.png)](https://aryanakarniya.github.io/links)
