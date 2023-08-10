@@ -28,7 +28,7 @@ Just pull this repo do changes in [info.json] and just host using github pages o
     "image": "images/bgimg.jpeg"
   },
   "userdetails": {
-    "userimage": "/images/sq.png",
+    "userimage": "images./sq.png",
     "username": "AryanAkarniya",
     "userbio": "A coder, Techie, Eth Hacker!!!"
   },
