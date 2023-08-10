@@ -1,7 +1,7 @@
 var navbar = document.querySelector("body");
 import linknames from "./info.json" assert { type: "json" };
 var data = document.createElement("p");
-data.innerHTML = "Code With Love By <a href='https://github.com/AryanAkarniya/links/' target='_blank'>AryanAkarniya</a>";
+data.innerHTML = "Code With Love By <a href='https://aryanakarniya.github.io/links/' target='_blank'>AryanAkarniya</a>";
 
 // $("tr").click(function(){
 //     window.location = "https://google.com";
